@@ -211,4 +211,4 @@ FileBot is provided as a **full free version** with all features and updates inc
 Take control of your TV series collection today with FileBot! Download now and enjoy the benefits of organization and ease!
 
 ---
-**Last updated:** 2026-10-20 09:51:34 UTC
+**Last updated:** 2026-10-20 14:49:01 UTC
